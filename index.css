@@ -34,6 +34,7 @@ body {
     justify-content: flex-end;
     align-items: flex-end;
     height: 100px;
+    max-width: 300px;
     background-color: rgb(68, 68, 68);
     color: white;
     font-size: 40px;
