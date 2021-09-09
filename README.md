@@ -1,2 +1,2 @@
 # calculator
-Working calculator except for keystrokes
+Working calculator
